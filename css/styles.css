@@ -43,6 +43,11 @@ a {
   }
 }
 
+.top__link {
+  font-size: 16px;
+  font-size: 1.6rem;
+}
+
 *,
 *::before,
 *::after {

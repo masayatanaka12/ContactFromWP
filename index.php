@@ -2,7 +2,7 @@
 
 <body>
 
-  <a href="">コンタクトページ</a>
+  <a class="top__link" href="<?php echo esc_url(home_url('contact')); ?>">コンタクトページに遷移</a>
 
   <?php get_footer(); ?>
 </body>
